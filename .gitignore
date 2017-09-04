@@ -1,8 +1,4 @@
-/.tmp
-app/resources/bower_components
-app/resources/css/**/*.css
-app/resources/templates/templates.js
-/dist
+app/templates/templates.js
 /node_modules
 /npm-debug.log
 .DS_Store
